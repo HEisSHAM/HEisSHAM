@@ -20,3 +20,6 @@
 - International Trade Specialist Lv 1 <br>
 - Trade English Lv 1 <br>
 - Microsoft Office Specialist
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HEisSHAM)](https://github.com/anuraghazra/github-readme-stats)
