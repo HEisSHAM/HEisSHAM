@@ -2,4 +2,5 @@
 
 <hr>
 
-
+✍️ Majored in Arab Studies
+👨‍💼 Worked as Internation Salesman
