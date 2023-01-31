@@ -10,3 +10,11 @@
 👨‍💼 Worked as Internation Salesman (2020.02-2022.08) <br>
 🧑‍💻 Back-end developer course Completion (2022.10-2023.01) - _CodeCamp_ <br>
 
+
+<br>
+
+### 📝 Certificate
+
+- International Trade Specialist Lv 1 <br>
+- Trade English Lv 1 <br>
+- Microsoft Office Specialist
